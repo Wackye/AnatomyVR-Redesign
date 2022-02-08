@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - rightLimb
+  - leg
+  - head
+  - Chest
+  - leftLimb
+  - text
   layers:
   - Default
   - TransparentFX
@@ -11,14 +17,14 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Sking Region
+  - Nervous system & Sense Organs
+  - Visceral systems
+  - Cardiovascular system
+  - Muscular system
+  - Joints
+  - Skeletal System
+  - text
   - 
   - 
   - 
