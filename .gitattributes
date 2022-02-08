@@ -40,3 +40,4 @@ Oculus.Spatializer.csproj filter=lfs diff=lfs merge=lfs -text
 ZibraAILiquid.csproj filter=lfs diff=lfs merge=lfs -text
 obj filter=lfs diff=lfs merge=lfs -text
 blend filter=lfs diff=lfs merge=lfs -text
+Z-Anatomy_simple.blend filter=lfs diff=lfs merge=lfs -text
